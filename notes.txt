@@ -1,0 +1,22 @@
+expo init
+npm install 
+npm install @react-navigation/bottom-tabs
+npm install react-native-screens 
+npm install react-native-gesture-handler 
+npm install @react-navigation/native 
+expo start
+
+C69
+
+expo install expo-barcode-scanner
+expo install expo-permissions
+
+C70
+
+expo install @expo-google-fonts/rajdhani
+expo install expo-font@~8.4.0
+npm install react-native vector-icons
+
+C71
+
+npm install firebase
